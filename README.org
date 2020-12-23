@@ -1,0 +1,23 @@
+* Cl-SCM
+
+Experimental project to manage content on all platforms.
+
+** Usage
+
+** Installation
+
+** TODO goals
+
+- Predicate utf-8 to make ctime and mtime work on windows.
+
+** Known Bugs
+
+osicat-posix:stat has problem with utf-8 on windows. (could be sbcl-posix problem.)
+
+** Author
+
+- Lingao Jin mailto:jinlingao@outlook.com
+
+** License
+
+Licensed under the BSD 3-Clause License.
